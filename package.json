@@ -1,0 +1,27 @@
+{
+  "name": "lojadegames_atividade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliciacoelho/lojadegames_atividade.git"
+  },
+  "keywords": [],
+  "author": "Aliciacoelho",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aliciacoelho/lojadegames_atividade/issues"
+  },
+  "homepage": "https://github.com/Aliciacoelho/lojadegames_atividade#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
